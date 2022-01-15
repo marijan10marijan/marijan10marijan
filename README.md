@@ -1,6 +1,6 @@
-### Hello World 👋
+## Hello World 👋
 
-# My name is Marijan Marković and I am learning software engineering.
+#### My name is Marijan Marković and I am learning software engineering.
 
 
 - 🔭 I’m currently working on Flask Python Project.
