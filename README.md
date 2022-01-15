@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning Python,Solidity and Web3!
 - 💬 Ask me about Python and anything related tech stuff. 
 - 📫 Gmail: mmarijan39@gmail.com
-- 😄 Instagram: __marijan__markovic__
+- 😄 Instagram:   __marijan__markovic__
  
