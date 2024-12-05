@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning how authorization works!
 - 💬 Ask me about Frontend Development and anything related tech stuff.
 - 📫 Gmail: mmarijan39@gmail.com
-- 😄 Instagram: **marijan**markovic\_\_
+- 😄 Instagram: \_\_marijan\_\_markovic\_\_
